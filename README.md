@@ -1,1 +1,1 @@
-# intro-to-blockchain
+# Introduction to Blockchain
